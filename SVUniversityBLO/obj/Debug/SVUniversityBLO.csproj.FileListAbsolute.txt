@@ -1,0 +1,18 @@
+C:\Users\sreer\source\repos\SVUniversityBLO\bin\Debug\SVUniversityBLO.dll
+C:\Users\sreer\source\repos\SVUniversityBLO\bin\Debug\SVUniversityBLO.pdb
+C:\Users\sreer\source\repos\SVUniversityBLO\bin\Debug\SVUniversityDBLO.dll
+C:\Users\sreer\source\repos\SVUniversityBLO\bin\Debug\SVUniversityDBLO.pdb
+C:\Users\sreer\source\repos\SVUniversityBLO\obj\Debug\SVUniversityBLO.csproj.AssemblyReference.cache
+C:\Users\sreer\source\repos\SVUniversityBLO\obj\Debug\SVUniversityBLO.csproj.CoreCompileInputs.cache
+C:\Users\sreer\source\repos\SVUniversityBLO\obj\Debug\SVUniver.EAF9300F.Up2Date
+C:\Users\sreer\source\repos\SVUniversityBLO\obj\Debug\SVUniversityBLO.dll
+C:\Users\sreer\source\repos\SVUniversityBLO\obj\Debug\SVUniversityBLO.pdb
+C:\GIT Hub\SVUniversityBLO\bin\Debug\SVUniversityBLO.dll
+C:\GIT Hub\SVUniversityBLO\bin\Debug\SVUniversityBLO.pdb
+C:\GIT Hub\SVUniversityBLO\bin\Debug\SVUniversityDBLO.dll
+C:\GIT Hub\SVUniversityBLO\bin\Debug\SVUniversityDBLO.pdb
+C:\GIT Hub\SVUniversityBLO\obj\Debug\SVUniversityBLO.csproj.AssemblyReference.cache
+C:\GIT Hub\SVUniversityBLO\obj\Debug\SVUniversityBLO.csproj.CoreCompileInputs.cache
+C:\GIT Hub\SVUniversityBLO\obj\Debug\SVUniver.EAF9300F.Up2Date
+C:\GIT Hub\SVUniversityBLO\obj\Debug\SVUniversityBLO.dll
+C:\GIT Hub\SVUniversityBLO\obj\Debug\SVUniversityBLO.pdb
