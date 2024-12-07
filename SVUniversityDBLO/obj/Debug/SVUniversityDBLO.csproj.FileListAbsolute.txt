@@ -1,0 +1,12 @@
+C:\Users\sreer\source\repos\SVUniversityDBLO\bin\Debug\SVUniversityDBLO.dll
+C:\Users\sreer\source\repos\SVUniversityDBLO\bin\Debug\SVUniversityDBLO.pdb
+C:\Users\sreer\source\repos\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.csproj.AssemblyReference.cache
+C:\Users\sreer\source\repos\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.csproj.CoreCompileInputs.cache
+C:\Users\sreer\source\repos\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.dll
+C:\Users\sreer\source\repos\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.pdb
+C:\GIT Hub\SVUniversityDBLO\bin\Debug\SVUniversityDBLO.dll
+C:\GIT Hub\SVUniversityDBLO\bin\Debug\SVUniversityDBLO.pdb
+C:\GIT Hub\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.csproj.AssemblyReference.cache
+C:\GIT Hub\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.csproj.CoreCompileInputs.cache
+C:\GIT Hub\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.dll
+C:\GIT Hub\SVUniversityDBLO\obj\Debug\SVUniversityDBLO.pdb
